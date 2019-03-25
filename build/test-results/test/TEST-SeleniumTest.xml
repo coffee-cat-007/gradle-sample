@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="SeleniumTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2019-03-25T05:00:26" hostname="Admins-MacBook-Pro.local" time="1.417">
+  <properties/>
+  <testcase name="browserTest" classname="SeleniumTest" time="1.417"/>
+  <system-out><![CDATA[Google
+]]></system-out>
+  <system-err><![CDATA[Starting ChromeDriver 73.0.3683.68 (47787ec04b6e38e22703e856e101e840b65afe72) on port 9967
+Only local connections are allowed.
+Please protect ports used by ChromeDriver and related test frameworks to prevent access by malicious code.
+Mar 25, 2019 10:30:26 AM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: OSS
+]]></system-err>
+</testsuite>
